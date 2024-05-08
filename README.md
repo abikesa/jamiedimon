@@ -5,7 +5,7 @@
 - And that led him to JP Morgan
 - London Whale and more
 
-# 2005 - 2025 as CEO
+# [2005 - 2025](https://www.youtube.com/watch?v=9Kl-wO_j5GM) as CEO
 
 - Fortress balance sheet
 - Banking (i.e., research & services)
