@@ -1,5 +1,14 @@
+# Is JP Morgan "Too Big"?
+- We move $13T dollars everyday around the world
+- And we bank the IMF, World Bank, Countries, and Big Firms
+- Only a very large bank can do these things
+  
+# Background and Intro
+
 - Greek immigrants
 - Dad investment banker
+   - Childhood was spent talking about banking
+   - Siblings opted for other careers 
 - His buddy was Dimon's boss
 - But fired him from CitiGroup
 - And that led him to JP Morgan
