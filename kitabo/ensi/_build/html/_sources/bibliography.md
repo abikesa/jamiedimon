@@ -87,6 +87,7 @@ b7f77-cb7a1
 
 ```{bibliography}
 ```
+### 🔱 The Five Layers of Epistemic Navigation
 
 [.](ukuzimba/01_intro.md)
 [.](ukuzimba/02_epistemology.md)
@@ -105,8 +106,6 @@ b7f77-cb7a1
 [.](ukuzimba/15_symbols.md)
 [.](ukuzimba/16_github.md)
 [.](ukuzimba/17_island.md)
- 
-### 🔱 The Five Layers of Epistemic Navigation
 
 **1. 🌊 Sea**  
 - *Raw truth. Chaos. Entropy.*  
