@@ -2,7 +2,7 @@
 
 # Older version of the script
 
-mkdir -p _build/html/pdfs _build/html/figures _build/html/media _build/html/data _build/html/testbin _build/html/testbin_dec2024 _build/html/nis
+mkdir -p _build/html/pdfs _build/html/figures _build/html/media _build/html/testbin  _build/html/nis # _build/html/testbin_dec2024 _build/html/data
 cp -r figures/* _build/html/figures/
 cp -r pdfs/* _build/html/pdfs/
 cp -r media/* _build/html/media/
